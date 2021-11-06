@@ -1,6 +1,8 @@
 # Ninja Turtle
 ### 2021년 1학기 심층학습 팀 프로젝트 - 닌자거북이
 
+2021-1 SW.AI 공모전 - 최우수상
+
 ---
 
 ## :turtle: Subject 
